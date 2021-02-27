@@ -1,0 +1,5 @@
+main-axis:
+Primary axis along which flex iems are laid out 
+Direction is based on flex direction property
+Horizontal size
+display:flex; - in parent element
